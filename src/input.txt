@@ -1,0 +1,6 @@
+type=[deterministic]
+states=[q0,q1,q1]
+alphabet=[0,1]
+initial=[q1]
+accepting=[q1]
+transitions=[q0>0>q0,q1>0>q0]
